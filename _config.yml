@@ -1,4 +1,4 @@
-remote_theme: pages-themes/slate@v0.2.0
+theme: minima
 title: PowerShell Slap Shot
 author: Nathan Hamblin
 description: This blog post is meant for development and testing. Not responsibile for the crazy things you are going to doing.  

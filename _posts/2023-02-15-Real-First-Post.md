@@ -2,7 +2,7 @@
 title: "My First Blog Post...for real"
 date: 2023-02-15
 ---
-![Image](./_pictures/Mastodon_Bkgrd.jpg)\
+![Image](/_pictures/Mastodon_Bkgrd.jpg)\
 So this is a first pass at having a functional blog post out on the inter-webs. I do hope that this can be a place to try and share knowledge and
 pass on the things that I can help others.
 I have a very interesting work history and I am planning on utilizing this GitHub page blog post to help share some of my past, present, and future.

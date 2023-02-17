@@ -1,6 +1,6 @@
 ---
 title: "A Little About Me..."
-date: 2023-02-15
+date: 2022-09-23
 ---
 Well, a little about me and my history. I am a Minnesota native that went to college at North Dakota State University in Fargo, ND.\
 ![image](https://logos-download.com/wp-content/uploads/2018/02/NDSU_Bison_logo-136x136.png)\

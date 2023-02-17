@@ -8,7 +8,7 @@ So these are some of the blogs that I have found useful for when I am working wi
 <a href="https://oofhours.com/">"Out of Office Hours"</a>\
 <a href="https://deploymentbunny.com/">"The Deployment Bunny"</a>\
 <a href="https://www.niallbrady.com/">"Niall Brady"</a>\
-<a href="https://jdhitsolutions.com/blog/">"The Lonely Administrator"</a>\
+<a href="https://jdhitsolutions.com/blog/">"The Lonely Administrator"</a>
 
 ---
 Link to my <a rel="me" href="https://tech.lgbt/@NathanHamblin_MI6">Mastodon</a>\

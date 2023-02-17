@@ -3,8 +3,8 @@ title: "A Little About Me..."
 date: 2023-02-15
 ---
 Well, a little about me and my history. I am a Minnesota native that went to college at North Dakota State University in Fargo, ND.\
-![image](https://universityinnovation.org/images/f/fb/NDSU.png)\
-![image](https://www.american-stock-research.com/uploads/1/2/7/1/127111504/home-depot-5_orig.jpg)\
+![image](https://logos-download.com/wp-content/uploads/2018/02/NDSU_Bison_logo-136x136.png)\
+![image](https://th.bing.com/th/id/OIP.ZjxZQDUaRWxKNahnvf_YJgAAAA?pid=ImgDet&rs=1)\
 I started working at The Home Depot so many years ago now that I think about it. I worked part time in the paint department for several months before transitioning over to the flooring and blinds department. As I was graduating from college with my Bachelor's Degree in Business Administration I was also promoted to a department supervisor over the Lumber, Building Materials, and the Pro Desk. I continued working at the Fargo Home Depot until 2007 and transitioned to be the department supervisor over kitchen & bath, plumbing, and appliances.\
 Around 2007 an opportunity came up to open a brand new Home Depot store in Maple Grove, MN. I was able to come down and be the department supervisor over kitchen & bath, plumbing, and appliances. It was during the opening of that store that a part time plumbing associate was hired amongst many other associates. The reason the part time plumbing associate is important to my current path is that he worked in IT as a consultant. He and I shared very similar interest like bowling, golf, and helping people. Through many conversations discussions of IT and computers came up frequently. He was able to help get things into my hands to help grow my IT skills and peaked my interest in IT.
 I was able to work with Ubuntu, Adobe Creative Suite, and GIMP during my time of work with him and discovered that I really enjoyed working with all of those things.\
@@ -23,6 +23,7 @@ I was able to transition into the End Point Architect role at Andersen Windows. 
 I was at Andersen Windows for a few years and was able to convert to an employee there. However, an opportunity came up that allowed me to transition to another company for an increased wage. With discussions with my husband we determined that it would be a good opportunity for me to experience more environments and getting paid more to do it also helped in the decision. I was able to work at the next company as a contrato doing very similar work that I had done at Andersen Windows with SSCCM, Active Directory, Group Policy, Azure Active Directory, Windows 7, Windows 10 and Office 365. The contract was ended 3 months earlier than intended and I was let go from that job, which is another experience to share in a different blog post.\
 I was able to find another contract job that I am currently at that has very similar work than what I have done before with a bunch of new experiences as well. This role has me going more into the Operational Technology versus the Information Technology field which is fun and exciting. I always loved to work with the production process and systems at Andersen Windows and this no company also has a very large manufacturing business.\
 Well that is all for now and some stories are to be continued...\
+![image](https://th.bing.com/th/id/R.d8ca3ae331df0a370109a9e49f6d014f?rik=ubpQ1%2bbc6ahFCg&riu=http%3a%2f%2finvictusmedia.com%2fimages%2fleft-rainbow-stars.jpg&ehk=3iVS4Coz3yqwkt6X1pULrgZzTKyFJEMF9Q21J7Xson4%3d&risl=&pid=ImgRaw&r=0)\
 Ciao!
 
 Link to my <a rel="me" href="https://tech.lgbt/@NathanHamblin_MI6">Mastodon</a>\

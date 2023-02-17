@@ -1,5 +1,5 @@
 ---
-title: "Some Good Learning Sites / Blogs"
+title: "Some Good Learning Sites for Windows Deployment and Management / Blogs"
 date: 2023-02-16
 ---
 ![alt text](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/Learning_Bkg.jpg?raw=true)\

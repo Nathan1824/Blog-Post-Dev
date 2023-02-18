@@ -20,7 +20,7 @@ Of course because I live in Minnesota, the "State of Hockey", I am a pretty big 
 ### Minnesota Wild Roster
 
 ![image](https://sports.cbsimg.net/images/nhl/players/170x170/1771018.png)\
-<a href="https://www.nhl.com/wild/roster"<"Wild Roster Page"</a>
+<a href="https://www.nhl.com/wild/roster">"Wild Roster Page"</a>
 
 ### Minnesota Wild News
 

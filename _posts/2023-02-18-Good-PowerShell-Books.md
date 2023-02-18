@@ -28,7 +28,7 @@ This is a good book to get some history on the SCCM product and get some informa
 <a href="https://www.amazon.com/System-Center-2012-Configuration-Manager/dp/9187445085/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=">"System Center 2012 R2 Configuration Manager: Mastering the Fundamentals"</a>\
 Another good book to expand knowledge on SCCM.\
 <a href="https://www.amazon.com/Mastering-System-Center-Configuration-Manager/dp/1119258456">"Mastering System Center Configuration Manager"</a>\
-A book that I have used as well for SCCM Current Branch:\
+A book that I have used as well for SCCM Current Branch.\
 <a href="https://www.amazon.com/System-Configuration-Manager-Current-Unleashed/dp/0672337908/ref=pd_lpo_2?pd_rd_w=LcUCN&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=VZWABP1BF4S7918K6SKE&pd_rd_wg=GBlw3&pd_rd_r=c3cbe0c1-bd83-42ce-98fa-8dbe10b57777&pd_rd_i=0672337908&psc=1">"System Center Configuration Manager Current Branch Unleashed"</a>
 
 This page will continue to be updated as I come across more books that I have learned from.\

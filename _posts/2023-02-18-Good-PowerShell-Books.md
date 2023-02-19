@@ -34,6 +34,8 @@ A book that I have used as well for SCCM Current Branch.\
 This page will continue to be updated as I come across more books that I have learned from.\
 Current as of 2/18/23
 
+<a href="#top">Back to top</a>
 ---
+Updated 2/19/2023\
 Link to my <a rel="me" href="https://tech.lgbt/@NathanHamblin_MI6">Mastodon</a>\
 Link to my <a rel="me" href="https://www.linkedin.com/in/nathan-hamblin">LinkedIn</a>

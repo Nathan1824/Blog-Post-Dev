@@ -25,5 +25,7 @@ Well that is all for now and some stories are to be continued...\
 ![image](https://th.bing.com/th/id/R.d8ca3ae331df0a370109a9e49f6d014f?rik=ubpQ1%2bbc6ahFCg&riu=http%3a%2f%2finvictusmedia.com%2fimages%2fleft-rainbow-stars.jpg&ehk=3iVS4Coz3yqwkt6X1pULrgZzTKyFJEMF9Q21J7Xson4%3d&risl=&pid=ImgRaw&r=0)\
 Ciao!
 
+<a href="#top">Back to top</a>
+---
 Link to my <a rel="me" href="https://tech.lgbt/@NathanHamblin_MI6">Mastodon</a>\
 Link to my <a rel="me" href="https://www.linkedin.com/in/nathan-hamblin">LinkedIn</a>

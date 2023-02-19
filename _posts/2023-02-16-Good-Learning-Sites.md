@@ -52,8 +52,8 @@ Good sites for training on Microsft, including some YouTube channels:\
 &emsp;<a href="https://learn.microsoft.com/en-us/training/browse/">Microsoft Learning</a>\
 &emsp;<a href="https://learn.microsoft.com/en-us/docs/">Microsoft Technical Documents</a>
 
+<a href="#top">Back to top</a>
 ---
 Updated: 2/19/2023
-
 Link to my <a rel="me" href="https://tech.lgbt/@NathanHamblin_MI6">Mastodon</a>\
 Link to my <a rel="me" href="https://www.linkedin.com/in/nathan-hamblin">LinkedIn</a>

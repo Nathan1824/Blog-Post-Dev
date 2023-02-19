@@ -27,6 +27,8 @@ Of course because I live in Minnesota, the "State of Hockey", I am a pretty big 
 ![image](https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/Bill_Guerin__165712/BillGuerin2015_2.jpg__59036__thumb.jpeg)\
 <a href="https://www.nhl.com/wild/news">"Wild News Page"</a>
 
+<a href="#top">Back to top</a>
 ---
+Updated 2/17/2023\
 Link to my <a rel="me" href="https://tech.lgbt/@NathanHamblin_MI6">Mastodon</a>\
 Link to my <a rel="me" href="https://www.linkedin.com/in/nathan-hamblin">LinkedIn</a>

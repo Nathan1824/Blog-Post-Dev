@@ -1,10 +1,8 @@
 ---
-title: "My History of Learning"
-date: 2023-02-19
+title: "My History of Learning - Pluralsight"
+date: 2022-09-23
 ---
-## Microsoft Learning
-
-![Image](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/MS-101_Plan_Your_Deployment.jpg?raw=true)
+## Pluralsight Learning
 
 ---
 Updated 2/19/2023\

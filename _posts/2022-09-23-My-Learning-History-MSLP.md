@@ -7,12 +7,21 @@ date: 2022-09-23
 ## Learning Paths
 
 ![Image](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/LP/MS-101_Plan_Your_Deployment.jpg?raw=true)
+
 ![Image](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/LP/Prepare_for_Device_Management.jpg?raw=true)
+
 ![Image](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/LP/Stay_Current_with_Windows.jpg?raw=true)
+<a href="#top">Back to top</a>
+
 ![Image](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/LP/Manage_Security_with_M365.jpg?raw=true)
+
 ![Image](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/LP/Manage_Your_Enterprise.jpg?raw=true)
+
 ![Image](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/LP/M365_Modernize_Your_Ent.jpg?raw=true)
+<a href="#top">Back to top</a>
+
 ![Image](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/LP/MEM_Fundamentals.jpg?raw=true)
+
 ![Image](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/LP/Create_Use_PowerBI.jpg?raw=true)
 
 <a href="#top">Back to top</a>

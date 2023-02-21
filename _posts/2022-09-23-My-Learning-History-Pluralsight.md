@@ -62,8 +62,9 @@ date: 2022-09-23
 
 ![Image](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/Pluralsight/BSCI/PS_BSCI_008.jpg?raw=true)
 
+![Image](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/Pluralsight/BSCI/PS_BSCI_010.jpg?raw=true)
 <a href="#top">Back to top</a>
 ---
-Updated 2/20/2023\
+Updated 2/21/2023\
 Link to my <a rel="me" href="https://tech.lgbt/@NathanHamblin_MI6">Mastodon</a>\
 Link to my <a rel="me" href="https://www.linkedin.com/in/nathan-hamblin">LinkedIn</a>

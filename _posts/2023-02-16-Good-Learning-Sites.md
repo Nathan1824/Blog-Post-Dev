@@ -14,7 +14,7 @@ Good PowerShell Sites and Blog Posts\
 
 ### PowerShell User Groups
 
-The Research Triangle Powershell user group was one of the first user groups I started to regularly attend over two years ago virtually, since I am not near Raleigh, NC.\
+The Research Triangle PowerShell user group was one of the first user groups I started to regularly attend over two years ago virtually, since I am not near Raleigh, NC.\
 &emsp;<a href="https://rtpsug.com/">Research Triangle PowerShell User Group</a> The group's GitHub Pages.\
 &emsp;<a href="https://www.youtube.com/c/rtpsug">Research Triangle PowerShell User Group YouTube Channel</a> Great place to re-watch previous meetings.\
 &emsp;<a href="https://www.meetup.com/research-triangle-powershell-users-group/">Research Triangle PowerShell User Group Meetup</a> This is the place I sign up for the meetings.\
@@ -22,10 +22,9 @@ The New York PowerShell user group is also another great group lead by Doug Fink
 &emsp;<a href="https://www.youtube.com/@DougFinke/videos">New York PowerShell User Group Meetup</a> This is the place I have re-watched previous meetings.\
 &emsp;<a href="https://www.meetup.com/nycpowershellmeetup/">New York PowerShell User Group Meetup</a> This is the place I sign up for the meetings.
 
-
 ### Various Blog Sites
 
-So these are some of the blogs that I have found useful for when I am working with Windows 10 management and system deployment:\
+So, these are some of the blogs that I have found useful for when I am working with Windows 10 management and system deployment.\
 &emsp;<a href="https://www.deploymentresearch.com/">Deployment Research</a>\
 &emsp;<a href="https://oofhours.com/">Out of Office Hours</a>\
 &emsp;<a href="https://deploymentbunny.com/">The Deployment Bunny</a>\
@@ -48,7 +47,7 @@ Some good podcasts that I try to watch.\
 
 ### Microsoft Sites and Blog Posts
 
-Good sites for training on Microsft, including some YouTube channels:\
+Good sites for training on Microsoft, including some YouTube channels.\
 &emsp;<a href="https://learn.microsoft.com/en-us/training/browse/">Microsoft Learning</a>\
 &emsp;<a href="https://learn.microsoft.com/en-us/docs/">Microsoft Technical Documents</a>
 

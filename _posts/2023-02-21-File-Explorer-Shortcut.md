@@ -6,7 +6,7 @@ date: 2023-02-21
 
 ![alt text](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/Blog_Post_Tip.jpg?raw=true)
 
-I discovered a couple weeks ago something new that I just had to write down and share. I was doing a Pluralsight class I think it was and the instructor show the below on how you can have a location open in File Explorer and type in CMD in the address bar and a command prompt will open to that location.
+I discovered a couple weeks ago something new that I just had to write down and share. I was doing a Pluralsight class I think it was and the instructor showed the below on how you can have a location open in File Explorer and type in CMD in the address bar and a command prompt will open to that location.
 
 ![alt text](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/_Posts/02_21_2023/CMD_Example_001.jpg?raw=true)
 

@@ -8,6 +8,7 @@ date: 2023-02-24
 
 Just two days ago I needed to gather some screenshots of some setup steps for a project I am working on for work. I had a recollection from a previous coworker that shared the Step Recorder tool with me at a previous job. Of course, I could not think of the name of the tool but with some Googling I was able to find the Problem Steps Recorder tool. It is a built-in tool for Windows 10 / Windows 11 and does a really good job.\
 This tool was the key I needed to capture all the steps and be able to use them in documentation. This is just one tool that can be used to capture screen shots for documentation and did a good job for what I needed.\
+On Windows 11 Problem Step Recorder is located in "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Steps Recorder.lnk"\
 For reference on the Probem Step Recorder tool and M365:
 <a href="https://learn.microsoft.com/en-us/office/troubleshoot/settings/how-to-use-problem-steps-recorder">"Problem Step Recorder</a>\
 For additional reference on Step Recorder Tool: <a href="https://support.microsoft.com/en-us/windows/record-steps-to-reproduce-a-problem-46582a9b-620f-2e36-00c9-04e25d784e47">"Problem Step Recorder</a>

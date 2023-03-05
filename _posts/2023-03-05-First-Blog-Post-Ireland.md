@@ -10,8 +10,9 @@ After spending 3 – 4 hours visiting the castle on my birthday we went out for 
 ![alt text](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/Monkfish.jpeg?raw=true)\
 Then last night Saturday March 4th we were able to get in at White Rabbit Bar & BBQ on MacCurtain Street. Delicious BBQ and the bar tender was fantastic. 
 Our plans are filled with places for visiting in Dublin, we will have Sunday March 5th through Tuesday March 7th to visit all the places in Dublin.\
-More to come on this blog post about Ireland as the time goes by for us to fly back to the United States.\
-<a href="#top">Back to top</a>
+More to come on this blog post about Ireland as the time goes by for us to fly back to the United States.  
+
+<a href="#top">Back to top</a> 
 ---
 Updated 3/5/2023\
 Link to my <a rel="me" href="https://tech.lgbt/@NathanHamblin_MI6">Mastodon</a>\

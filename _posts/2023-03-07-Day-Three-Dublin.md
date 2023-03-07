@@ -5,6 +5,7 @@ date: 2023-03-07
 ### Vacation Time - Dublin Day Three
 
 End of the Day Tuesday\
+There will be more to this blog post as I get time to right it and fill in around the pictures below.
 
 ![alt text](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/Custom_House.jpeg?raw=true)\
 

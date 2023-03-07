@@ -14,6 +14,6 @@ More to come on this blog post about Ireland as the time goes by for us to fly b
 
 <a href="#top">Back to top</a> 
 ---
-Updated 3/5/2023\
+Updated 3/7/2023\
 Link to my <a rel="me" href="https://tech.lgbt/@NathanHamblin_MI6">Mastodon</a>\
 Link to my <a rel="me" href="https://www.linkedin.com/in/nathan-hamblin">LinkedIn</a>

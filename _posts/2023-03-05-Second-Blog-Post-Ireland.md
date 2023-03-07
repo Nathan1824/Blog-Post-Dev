@@ -14,6 +14,6 @@ We also discovered a very nice gay bar in Ireland called Street 66, the music wa
 
 <a href="#top">Back to top</a> 
 ---
-Updated 3/5/2023\
+Updated 3/7/2023\
 Link to my <a rel="me" href="https://tech.lgbt/@NathanHamblin_MI6">Mastodon</a>\
 Link to my <a rel="me" href="https://www.linkedin.com/in/nathan-hamblin">LinkedIn</a>

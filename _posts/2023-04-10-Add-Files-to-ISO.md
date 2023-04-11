@@ -17,7 +17,7 @@ DISM /Get-ImageInfo /ImageFile:"path_to_image.wim"\
 Dism /Mount-Image /ImageFile:"path_to_image_file" /Index:"image_index" /MountDir:C:\Temp\Mount\
 &emsp;7). Once the process runs, you can then copy files into the appropriate locations there, you will need administrative rights to add anything into that mounted image.\
 &emsp;8). After getting everything added that you want, you will need to commit the changes and dismount the image by running,\
-Dism /Unmount-Image /MountDir:C:\Temp\Mount /Commit
+Dism /Unmount-Image /MountDir:C:\Temp\Mount /Commit\
 This will close up the WIM file, the next process could be to create an ISO with that updated WIM file.
 
 <a href="#top">Back to top</a>

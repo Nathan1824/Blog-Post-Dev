@@ -11,8 +11,9 @@ I found that the majority of what I needed and wanted to do applied to either th
 &emsp;<a href="https://learn.microsoft.com/en-us/windows-hardware/get-started/adk-install">Windows Assessment and Deployment Kit</a>\
 Once you have the version you need installed you will launch the Windows System Image Manager and the instructions on the answer files Microsoft Learn page will walk you through the process.\
 
-This was a good article that helped me out &emsp;<a href="https://www.windowscentral.com/how-create-unattended-media-do-automated-installation-windows-10">Unattend Blog</a>\
-As always, a shout out to Mauro Huculak for his post!\
+This was a good article that helped me out\
+&emsp;<a href="https://www.windowscentral.com/how-create-unattended-media-do-automated-installation-windows-10">Unattend Blog</a>\
+As always, a shout out to Mauro Huculak for his post!
 
 <a href="#top">Back to top</a>
 ---

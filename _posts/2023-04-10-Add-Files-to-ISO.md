@@ -11,7 +11,7 @@ The basic overview of what I did to add the files was the following:\
 &emsp;2). Launch an Administrative PowerShell prompt.\
 &emsp;3). Mount the Windows ISO file that you want to work with and add files.\
 &emsp;4). I utilized DISM to get the index information about the WIM file I wanted to work with, running\
-DISM /Get-ImageInfo /ImageFile:<path_to_image.wim> \
+DISM /Get-ImageInfo /ImageFile:<path_to_image.wim>
 &emsp;5). Grab the index of the Windows version that you want to work with and add files.\
 &emsp;6). Mount that index into the C:\Temp\Mount folder by running,\
 Dism /Mount-Image /ImageFile:<path_to_image_file> /Index:<image_index> /MountDir:C:\Temp\Mount \

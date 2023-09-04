@@ -16,4 +16,4 @@ As the article references the Windows ADK is needed for the process and is found
 Updated 9/3/2023\
 Link to my <a rel="me" href="https://tech.lgbt/@NathanHamblin_MI6">Mastodon</a>\
 Link to my <a rel="me" href="https://www.linkedin.com/in/nathan-hamblin">LinkedIn</a>\
-<a href="https://twitter.com/NathanHamblin8" rel="me">Follow me on Twitter!</a>
+Link to my <a href="https://twitter.com/NathanHamblin8" rel="me">Twitter</a>

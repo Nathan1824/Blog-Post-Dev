@@ -15,6 +15,10 @@ Two and a Half Devs - Damian Reeves, Doug Finke and GPT\
 FRI, SEP 15 · 9:00 AM CDT\
 <a href="https://www.meetup.com/nycpowershellmeetup/events/295851928/">NYPSUG Meetup</a>
 
+### PowerShell.org Calendar
+Good source to find other PowerShell User Group meetings.\
+<a href="https://powershell.org/calendar/">PowerShell.org/a>
+
 <a href="#top">Back to top</a>
 ---
 Updated 9/3/2023\

@@ -17,7 +17,7 @@ FRI, SEP 15 · 9:00 AM CDT\
 
 ### PowerShell.org Calendar
 Good source to find other PowerShell User Group meetings.\
-<a href="https://powershell.org/calendar/">PowerShell.org/a>
+<a href="https://powershell.org/calendar/">PowerShell.org</a>
 
 <a href="#top">Back to top</a>
 ---

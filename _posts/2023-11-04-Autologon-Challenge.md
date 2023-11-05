@@ -106,6 +106,7 @@ elseif($SFPRegKeyExists.SyncForegroundPolicy -ne 1){
 }
 ```
 <a href="#top">Back to top</a>
+
 ---
 Updated 11/4/2023\
 Link to my <a rel="me" href="https://tech.lgbt/@NathanHamblin_MI6">Mastodon</a>\

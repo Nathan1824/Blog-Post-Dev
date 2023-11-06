@@ -8,7 +8,7 @@ The issue that I was having is that despite setting the account successfully and
 
 **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon**\
 Value Name: **AutoLogonCount**\
-Type: **REG_SZ**\
+Type: **REG_DWORD**\
 Value: **0**
 
 That key was something I had been using during deployment and that had not cleared out post-imaging. So, the solution was removing that registry key for **AutoLogonCount** prior to running the Sysinternals AutoLogon utility.

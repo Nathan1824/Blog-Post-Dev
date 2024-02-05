@@ -1,6 +1,6 @@
 ---
 title: "My History of Learning - Pluralsight"
-date: 2022-09-23
+date: 2024-02-04
 ---
 ## Pluralsight Learning
 
@@ -38,7 +38,7 @@ date: 2022-09-23
 
 ![Image](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/Pluralsight/Personal/PS_015.jpg?raw=true)
 
-![Image](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/Pluralsight/Personal/PS_016.pdf?raw=true)
+![Image](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/Pluralsight/Personal/PS_016.jpg?raw=true)
 <a href="#top">Back to top</a>
 
 ![Image](https://github.com/Nathan1824/Blog-Post-Dev/blob/main/_pictures/Pluralsight/BSCI/PS_BSCI_001.jpg?raw=true)
